@@ -1,3 +1,18 @@
+# Notes for react-raiders
+
+  This project should work as is provided that you install the appropriate yarn or npm packages.  That said, there are some speecific things you'll need to make sure to install to make everything work properly.  You'll need to install the following:
+
+ - react
+ - react-router-dom
+ - react-bootstrap
+ - various packages from font-awesome which should have instructions on their site
+
+With all of these, everything should work but let me know if you need help.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
